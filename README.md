@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anveshmupparaju
 - 👀 I’m interested in AIX
-- 🌱 I’m currently SalesForce
+- 🌱 I’m currently learning SalesForce
 - 💞️ I’m looking to collaborate on Salesforce Projects for Non Profits
 - 📫 How to reach me ...
 
