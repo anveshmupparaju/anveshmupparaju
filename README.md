@@ -1,16 +1,14 @@
-### Hi there 👋
+## About Me
 
-<!--
-**anveshmupparaju/anveshmupparaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a ServiceNow developer with a passion for contributing to the community. I am active on ServiceNow Community, GitHub, and LinkedIn, where I create content on new features, un documented features, question and answers, code snippets like business rules, client scripts, UI actions, script includes, UI pages, etc.
 
-Here are some ideas to get you started:
+[LinkedIn](https://www.linkedin.com/in/anveshkumarmupparaju/)
+[ServiceNow Community profile](https://www.servicenow.com/community/user/viewprofilepage/user-id/394006)
+[GitHub](https://github.com/anveshmupparaju)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How to Get Involved
+
+If you have any questions or feedback, please feel free to contact me on any of my social media profiles. I am always happy to help other ServiceNow developers.
+
+### Thank you for visiting my GitHub profile!
+
