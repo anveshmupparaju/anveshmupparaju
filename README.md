@@ -12,3 +12,4 @@ If you have any questions or feedback, please feel free to contact me on any of 
 
 ### Thank you for visiting my GitHub profile!
 
+[![An image of @anveshmupparaju's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anveshmupparaju)](https://holopin.io/@anveshmupparaju)
